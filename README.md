@@ -1,4 +1,6 @@
-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aitor Mendiburu
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="MendiBot" />
+</h1>My name is Aitor Mendiburu
 =======================================================================================================================================
 
 Web developer
