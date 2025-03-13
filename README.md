@@ -14,8 +14,8 @@
 
 - 🌍  I'm based in **San Sebastian, Spain**
 - 👨‍💻  I specialize in **Full Stack Development** and **Cloud Services**
-- 🚀  Currently enhancing my skills in **Next.js** and **AWS Cloud**
-- 💬  Ask me about **JavaScript**, **React**, **Python**, **AWS**, or anything tech-related!
+- 🚀  Currently enhancing my skills in **Python**, **Go** and **Google Cloud**
+- 💬  Ask me about **Typescript**, **React**, **Python**, **NodeJS**, **PHP**, **Go**, **Google Cloud** and **Git**
 - 📫  Feel free to contact me at [mendibot15@gmail.com](mailto:mendibot15@gmail.com)
 
 ---
