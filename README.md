@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hello,+I'm+Aitor+Mendiburu;Building+Scalable+Backends;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1200&pause=300&color=0891B2&center=true&vCenter=true&width=600&lines=Web+%26+Mobile;Scalable+Backends;Ready+for+secure+deployment" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,21 +7,25 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRycm81Z3R4ZzRreHpsYm94bm93Y3R3bm93Y3R3bm93YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4YpGg/giphy.gif" width="100" />
-  <h1><samp>Aitor Mendiburu</samp></h1>
+  <h1><samp>Hello, I'm Aitor Mendiburu</samp></h1>
   
   <p>
     <b>🚀 Full-Stack Developer</b> • 
-    <b>📍 Donostia, Spain 🇪🇸</b>
+    <b> Donostia, Spain 🇪🇸</b>
   </p>
 
   <p><i>"From Product Analysis to Production Deployment"</i></p>
 
-  <p>
-    <a href="https://mendistack.com/en/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=react&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/aitormendiburu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:mendibot15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+<p>
+  <a href="https://mendistack.com/en/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=flat-square&logo=react&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aitormendiburu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mendibot15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p>
+   <code>mendibot15@gmail.com</code>
+</p>
+
 </div>
 
 ---
@@ -36,30 +40,14 @@
 | **Data & Messaging** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-white?style=for-the-badge&logo=socket.io&logoColor=black)
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
----
 
-### 📊 GitHub Activity
-
-<a href="http://www.github.com/mendibotas">
-
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mendibotas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-
-</a>
----
-
-### ⚙️ Engineering Principles
-
-> [!TIP]
-> ### 🛠️ My Workflow Standards
-> * 🎯 **Issue-Driven Development:** Ensuring every commit has a purpose through traceable and progressive delivery.
-> * 💎 **Clean & Documented:** Maintaining high-performance codebases built on human-led decisions.
-> * 🤖 **Intelligent Workflows:** Integrating Cloud AI tools and Local LLM automation for maximum privacy and consistency.
-> * 🏗️ **Scalable Architectures:** Expertly bridging the gap between IoT hardware and mobile ecosystems.
+### 🚀 Process & Engineering
+| **Process** | **Engineering** |
+| :--- | :--- |
+| 🎯 **Product Discovery** | 🛠️ **Git Flow & PR Reviews** |
+| 🎫 **Ticket-Based Dev** | 💎 **Clean & Documented Code** |
+| 📦 **Traceable Delivery** | 🤖 **Cloud AI + Human Insight** |
+| 🏗️ **Scalable Architecture** | 🔒 **Local LLM Automation** |
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mendibot&color=0891b2&style=flat-square&label=PROFILE+VIEWS" />
-</div>
-
----
