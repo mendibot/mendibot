@@ -7,14 +7,26 @@
 </p>
 
 <div align="center">
-  <h3>🚀 Junior Full-Stack Developer | Intelligent Workflows</h3>
-  [cite_start]<p><b>📍 Donostia, Spain</b> [cite: 2] | [cite_start]<b>💼 Actively Seeking Junior Full-Stack Roles (Remote)</b> [cite: 5, 6]</p>
-  [cite_start]<p><i>"From Product Analysis to Production Deployment"</i> [cite: 9]</p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRycm81Z3R4ZzRreHpsYm94bm93Y3R3bm93Y3R3bm93YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4YpGg/giphy.gif" width="100" />
+  <h1><samp>Aitor Mendiburu</samp></h1>
+  
+  <p>
+    <b>🚀 Full-Stack Developer</b> • 
+    <b>📍 Donostia, Spain 🇪🇸</b>
+  </p>
+
+  <p><i>"From Product Analysis to Production Deployment"</i></p>
+
+  <p>
+    <a href="https://mendistack.com/en/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=react&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/aitormendiburu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:mendibot15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-### 🛠️ Technical Stack [cite: 8, 9]
+### 🛠️ Technical Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -37,9 +49,17 @@
 
 ### ⚙️ Engineering Principles
 
-**Issue-Driven Development:** Traceable and progressive delivery[cite: 39].
-**Clean & Documented:** High-performance code with human-led decisions[cite: 39].
-**Intelligent Workflows:** Integrating Local LLMs and Cloud AI tools for consistency[cite: 39, 40].
-**Scalable Architectures:** Mastering the bridge between hardware and mobile[cite: 39, 55].
+> [!TIP]
+> ### 🛠️ My Workflow Standards
+> * 🎯 **Issue-Driven Development:** Ensuring every commit has a purpose through traceable and progressive delivery.
+> * 💎 **Clean & Documented:** Maintaining high-performance codebases built on human-led decisions.
+> * 🤖 **Intelligent Workflows:** Integrating Cloud AI tools and Local LLM automation for maximum privacy and consistency.
+> * 🏗️ **Scalable Architectures:** Expertly bridging the gap between IoT hardware and mobile ecosystems.
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mendibot&color=0891b2&style=flat-square&label=PROFILE+VIEWS" />
+</div>
 
 ---
