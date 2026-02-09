@@ -14,7 +14,7 @@
     <b> Donostia, Spain 🇪🇸</b>
   </p>
 
-  <p><i>"From Product Analysis to Production Deployment"</i></p>
+  <p><i>"From Product Analysis to Product Deployment"</i></p>
 
 <p>
   <a href="https://mendistack.com/en/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=flat-square&logo=react&logoColor=white" /></a>
